@@ -1,0 +1,8 @@
+{
+  "name": "Remix Zellact Math Lab",
+  "description": "An interactive digital mathematics laboratory by Zellact for learning, problem-solving, and exploring mathematical concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
